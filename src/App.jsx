@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import WebFont from "webfontloader";
 import Hero from "./sections/Hero";
+import KeepTrackOfYourSnippets from "./sections/KeepTrackOfYourSnippets";
 
 const App = () => {
   // loads the font required
@@ -16,6 +17,7 @@ const App = () => {
     <>
       <main className="h-[8000px] max-w-screen-2xl mx-auto">
         <Hero />
+        <KeepTrackOfYourSnippets />
       </main>
     </>
   );

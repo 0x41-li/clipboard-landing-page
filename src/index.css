@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* General */
+
+h2 {
+  @apply text-heading font-semibold mb-4 font-primary text-center;
+  font-size: 28px;
+  line-height: 35px;
+  letter-spacing: -1px;
+}
+
+@media screen and (min-width: 1024px) {
+  h2 {
+    font-size: 36px;
+    line-height: 45px;
+    margin-bottom: 19px;
+  }
+}
+
+h3 {
+  @apply text-heading font-semibold font-primary;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: -1px;
+}
