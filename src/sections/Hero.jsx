@@ -27,11 +27,11 @@ const Hero = () => {
       <div className="flex flex-col items-center mt-12 lg:flex-row lg:justify-center lg:gap-4">
         <Button
           text="Download for iOS"
-          addToClassName="bg-lightGreen [box-shadow:_0px_10px_20px_rgba(137,_229,_199,_0.503305),_inset_0px_-3px_0px_rgba(0,_0,_0,_0.151333)]"
+          addToClassName="bg-lightGreen hover:bg-[#26bba5bf] [box-shadow:_0px_10px_20px_rgba(137,_229,_199,_0.503305),_inset_0px_-3px_0px_rgba(0,_0,_0,_0.151333)]"
         />
         <Button
           text="Download for Mac"
-          addToClassName="bg-lightBlue mt-6 [box-shadow:0px_10px_20px_rgba(0,_0,_0,_0.0988035),_inset_0px_-3px_0px_rgba(0,_0,_0,_0.151333)] lg:mt-0"
+          addToClassName="bg-lightPurple mt-6 [box-shadow:0px_10px_20px_rgba(0,_0,_0,_0.0988035),_inset_0px_-3px_0px_rgba(0,_0,_0,_0.151333)] hover:bg-[#6173ffbf] lg:mt-0"
         />
       </div>
     </section>

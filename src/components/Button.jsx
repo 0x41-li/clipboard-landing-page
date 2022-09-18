@@ -4,7 +4,7 @@ const Button = (props) => {
   return (
     <button
       className={
-        "text-white font-primary font-semibold w-[311px] h-[56px] rounded-full [font-size:18px] [line-height:30px] [letter-spacing:0.5px] lg:w-[227px]" +
+        "text-white font-primary font-semibold w-[311px] h-[56px] rounded-full [font-size:18px] [line-height:30px] [letter-spacing:0.5px] lg:w-[227px] transition-[background] ease-in-out [transition-duration:0.4s]" +
         " " +
         props.addToClassName
       }
