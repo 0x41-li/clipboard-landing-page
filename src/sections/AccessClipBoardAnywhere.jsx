@@ -9,7 +9,7 @@ const AccessClipBoardAnywhere = () => {
     <section className="mt-[186px] px-8 lg:mt-[150px] lg:px-0">
       <div className="max-w-[530px] mx-auto lg:max-w-[730px]">
         <h2 className="">Access Clipboard Anywhere</h2>
-        <p className="text-para text-base [line-height:26px] text-center [letter-spacing:0.2px] lg:[font-size:18px] lg:[line-height:30px]">
+        <p className="text-center [letter-spacing:0.2px]">
           Whether you’re on the go, or at your computer, you can access all your
           Clipboard snippets in a few simple clicks.
         </p>

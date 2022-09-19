@@ -4,24 +4,36 @@
 
 /* General */
 
-h2 {
-  @apply text-heading font-semibold mb-4 font-primary text-center;
-  font-size: 28px;
-  line-height: 35px;
-  letter-spacing: -1px;
-}
-
-@media screen and (min-width: 1024px) {
+@layer base {
   h2 {
-    font-size: 36px;
-    line-height: 45px;
-    margin-bottom: 19px;
+    @apply text-heading font-semibold mb-4 font-primary text-center;
+    font-size: 28px;
+    line-height: 35px;
+    letter-spacing: -0.46px;
   }
-}
 
-h3 {
-  @apply text-heading font-semibold font-primary;
-  font-size: 24px;
-  line-height: 30px;
-  letter-spacing: -1px;
+  h3 {
+    @apply text-heading font-semibold font-primary;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.39px;
+  }
+
+  p {
+    @apply text-para text-base font-primary font-normal;
+    line-height: 26px;
+  }
+
+  @media screen and (min-width: 1024px) {
+    h2 {
+      font-size: 36px;
+      line-height: 45px;
+      margin-bottom: 19px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 30px;
+    }
+  }
 }

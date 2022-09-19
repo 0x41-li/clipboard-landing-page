@@ -16,10 +16,10 @@ const Hero = () => {
       </div>
 
       <div className="px-8  mt-16 lg:mt-14">
-        <h1 className="font-primary text-center text-heading font-semibold [font-size:32px] [line-height:40px] [letter-spacing:-1px] lg:[font-size:46px] lg:[line-height:58px]">
+        <h1 className="font-primary text-center text-heading font-semibold [font-size:32px] [line-height:40px] [letter-spacing:-0.52px] lg:[font-size:46px] lg:[line-height:58px]">
           A history of everything you copy
         </h1>
-        <p className="font-primary font-regular text-center text-para mt-4 [font-size:16px] [line-height:26px] max-w-[530px] mx-auto lg:max-w-[730px] lg:[font-size:20px] lg:[line-height:30px]">
+        <p className="text-center [letter-spacing:0.12px] mt-4 max-w-[530px] mx-auto lg:max-w-[730px] lg:[font-size:20px]">
           Clipboard allows you to track and organize everything you copy.
           Instantly access your clipboard on all your devices.
         </p>
