@@ -10,7 +10,7 @@ import Button from "../components/Button";
 
 const Hero = () => {
   return (
-    <section className="bg-[url(./assets/images/hero-background-mobile.png)] [background-size:100vw_363px] bg-no-repeat pt-[123px] lg:bg-[url(./assets/images/hero-background-desktop.png)] lg:pt-[131px]">
+    <section className="bg-[url(./assets/images/hero-background-mobile.png)] [background-size:100%_363px] bg-no-repeat pt-[123px] lg:bg-[url(./assets/images/hero-background-desktop.png)] lg:pt-[131px]">
       <div className="flex justify-center">
         <Logo />
       </div>
