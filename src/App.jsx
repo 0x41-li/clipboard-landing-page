@@ -19,7 +19,7 @@ const App = () => {
 
   return (
     <>
-      <main className="max-w-screen-2xl mx-auto">
+      <main className="mx-auto">
         <Hero />
         <KeepTrackOfYourSnippets />
         <AccessClipBoardAnywhere />
