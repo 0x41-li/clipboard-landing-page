@@ -57,14 +57,14 @@ const Footer = () => {
           </li>
         </ul>
 
-        <div className="flex justify-center mt-[48px] gap-[40px] items-center lg:mt-0 xl:ml-[165px] xl:gap-[24px] xl:mt-[24px]">
-          <a href="#" className="[color:#4C545C] hover:[color:#26BBA4]">
+        <div className="flex justify-center mt-[48px] gap-[40px] items-center lg:mt-0 xl:ml-[165px] xl:gap-[24px] xl:mt-[24px] [&>a]:[color:#4C545C] [&>a]:[transition-duration:0.4s] [&>a]:ease-in-out [&>a]:transition-colors">
+          <a href="#" className="hover:[color:#26BBA4]">
             <FacebookIcon className="w-[24px] h-[24px] fill-current" />
           </a>
-          <a href="#" className="[color:#4C545C] hover:[color:#26BBA4]">
+          <a href="#" className="hover:[color:#26BBA4]">
             <TwitterIcon className="w-[24px] h-[20px] fill-current" />
           </a>
-          <a href="#" className="[color:#4C545C] hover:[color:#26BBA4]">
+          <a href="#" className="hover:[color:#26BBA4]">
             <InstagramIcon className="w-[24px] h-[24px] fill-current" />
           </a>
         </div>
