@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/clipboard-landing-page/static/css/main.1926b592.css",
-    "main.js": "/clipboard-landing-page/static/js/main.7b620504.js",
+    "main.css": "/clipboard-landing-page/static/css/main.8e0dc475.css",
+    "main.js": "/clipboard-landing-page/static/js/main.d3e4b55e.js",
     "static/media/hero-background-desktop.png": "/clipboard-landing-page/static/media/hero-background-desktop.47030334d435372286e0.png",
     "static/media/success-popup-in-an-ipad-and-a-mobile-phone-812w.png": "/clipboard-landing-page/static/media/success-popup-in-an-ipad-and-a-mobile-phone-812w.37b996f5bb55f5230654.png",
     "static/media/success-popup-in-a-desktop-monitor-752w.png": "/clipboard-landing-page/static/media/success-popup-in-a-desktop-monitor-752w.9fb645b8e39cb1d9b86f.png",
@@ -21,11 +21,11 @@
     "static/media/twitter.svg": "/clipboard-landing-page/static/media/twitter.17912a9b6590a7eed009c129a23502ff.svg",
     "static/media/facebook.svg": "/clipboard-landing-page/static/media/facebook.8609a0c9900f1fe8e20eb44fd72902e8.svg",
     "index.html": "/clipboard-landing-page/index.html",
-    "main.1926b592.css.map": "/clipboard-landing-page/static/css/main.1926b592.css.map",
-    "main.7b620504.js.map": "/clipboard-landing-page/static/js/main.7b620504.js.map"
+    "main.8e0dc475.css.map": "/clipboard-landing-page/static/css/main.8e0dc475.css.map",
+    "main.d3e4b55e.js.map": "/clipboard-landing-page/static/js/main.d3e4b55e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1926b592.css",
-    "static/js/main.7b620504.js"
+    "static/css/main.8e0dc475.css",
+    "static/js/main.d3e4b55e.js"
   ]
 }
