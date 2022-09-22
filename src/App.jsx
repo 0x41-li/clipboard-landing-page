@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import WebFont from "webfontloader";
 import AccessClipBoardAnywhere from "./sections/AccessClipBoardAnywhere";
+import ClipboardDownloads from "./sections/ClipboardDownloads";
 import Hero from "./sections/Hero";
 import KeepTrackOfYourSnippets from "./sections/KeepTrackOfYourSnippets";
 import SuperChargeYourWorkFlow from "./sections/SuperChargeYourWorkFlow";
@@ -22,6 +23,7 @@ const App = () => {
         <KeepTrackOfYourSnippets />
         <AccessClipBoardAnywhere />
         <SuperChargeYourWorkFlow />
+        <ClipboardDownloads />
       </main>
     </>
   );
