@@ -3,6 +3,7 @@ import WebFont from "webfontloader";
 import AccessClipBoardAnywhere from "./sections/AccessClipBoardAnywhere";
 import Hero from "./sections/Hero";
 import KeepTrackOfYourSnippets from "./sections/KeepTrackOfYourSnippets";
+import SuperChargeYourWorkFlow from "./sections/SuperChargeYourWorkFlow";
 
 const App = () => {
   // loads the font required
@@ -20,6 +21,7 @@ const App = () => {
         <Hero />
         <KeepTrackOfYourSnippets />
         <AccessClipBoardAnywhere />
+        <SuperChargeYourWorkFlow />
       </main>
     </>
   );
