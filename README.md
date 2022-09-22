@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://0x41-li.github.io/clipboard-landing-page/](https://0x41-li.github.io/clipboard-landing-page/)
+- Live Site URL: [https://github.com/0x41-li/clipboard-landing-page](https://github.com/0x41-li/clipboard-landing-page)
 
 ## My process
 
@@ -39,13 +39,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@0x41-li](https://www.frontendmentor.io/profile/0x41-li)
+- Twitter - [@AliSbane2](https://www.twitter.com/AliSbane2)
