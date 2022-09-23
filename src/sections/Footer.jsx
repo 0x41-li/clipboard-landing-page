@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <footer className="bg-[#9fabb218] mt-[170px] pt-[52px] pb-[53px] px-8 xl:mt-[150px] xl:py-[39px]">
       <div className="lg:flex lg:justify-between lg:items-center lg:mx-auto xl:justify-start xl:items-start xl:max-w-[1110px]">
-        <a href="#">
+        <a href="#" aria-label="Home Page">
           <Logo className="w-[55px] h-[55px] mx-auto lg:mx-0 xl:[flex:0_0_55px]" />
         </a>
 
@@ -58,13 +58,13 @@ const Footer = () => {
         </ul>
 
         <div className="flex justify-center mt-[48px] gap-[40px] items-center lg:mt-0 xl:ml-[165px] xl:gap-[24px] xl:mt-[24px] [&>a]:[color:#4C545C] [&>a]:[transition-duration:0.4s] [&>a]:ease-in-out [&>a]:transition-colors">
-          <a href="#" className="hover:[color:#26BBA4]">
+          <a href="#" aria-label="Facebook page" className="hover:[color:#26BBA4]">
             <FacebookIcon className="w-[24px] h-[24px] fill-current" />
           </a>
-          <a href="#" className="hover:[color:#26BBA4]">
+          <a href="#" aria-label="Twitter Page" className="hover:[color:#26BBA4]">
             <TwitterIcon className="w-[24px] h-[20px] fill-current" />
           </a>
-          <a href="#" className="hover:[color:#26BBA4]">
+          <a href="#" aria-label="Instagram Page" className="hover:[color:#26BBA4]">
             <InstagramIcon className="w-[24px] h-[24px] fill-current" />
           </a>
         </div>
